@@ -10,17 +10,17 @@
 
 - ## 🔭 About Me
 
-- 🔭 I have completed a project on PHP development: **Student Record Management System**  
-  [📎 GitHub Repository](https://github.com/Sidd-17052004/Student-Management-System)
+- 🔭 I have completed a project on MERN development: **Job Portal Project**  
+  [📎 GitHub Repository](https://github.com/Harshal1326/deploymentjobportal)
 
 - 🌱 I’m currently learning:  
   **Web Development 👨‍💻**, **Data Structures and Algorithms**, **Advanced C++**, **Networking 🛜**
 
 - 👨‍💻 All of my projects are available here:  
-  [🔗 https://github.com/Sidd-17052004?tab=repositories](https://github.com/Sidd-17052004?tab=repositories)
+  [🔗https://github.com/Sidd-17052004?tab=repositories](https://github.com/Harshal1326?tab=repositories))
 
 - 📫 How to reach me:  
-  [📧 srkatkade@gmail.com](mailto:srkatkade@gmail.com)
+  [📧 harshalshinde1326@gmail.com](mailto:harshalshinde1326@gmail.com)
 
 - 💡 Motivation:  
   _🫵 Commitment, Consistency, and Do What You Love ❤️_
