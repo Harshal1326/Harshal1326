@@ -14,7 +14,7 @@
   [📎 GitHub Repository](https://github.com/Harshal1326/deploymentjobportal)
 
 - 🌱 I’m currently learning:  
-  **Web Development 👨‍💻**, **Data Structures and Algorithms**, **Advanced C++**
+  **Web Development 👨‍💻**, **Data Structures and Algorithms**, **Java**
 
 - 👨‍💻 All of my projects are available here:  
   [🔗https://github.com/Sidd-17052004?tab=repositories](https://github.com/Harshal1326?tab=repositories))
