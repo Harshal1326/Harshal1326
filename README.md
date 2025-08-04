@@ -5,7 +5,7 @@
 - 🎓 I’m a 4th-year student at **D.Y. Patil College of Engineering, Akurdi, Pune**
 - 🧠 Currently learning: **Full Stack**, **Data Structures & Algorithms**, **DBMS**, and **OS**
 - 💼 Working on personal and collaborative projects to enhance my problem-solving and development skills
-- 📫 How to reach me: **harshalshinde1326@email.com** *(replace with your actual email)*
+- 📫 How to reach me: **harshalshinde1326@email.com** 
 - 💡 Motivation: _"Discipline, Focus, and Growth Every Day 🌱"_
 
 - ## 🔭 About Me
