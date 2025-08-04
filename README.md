@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Pinned Projects:
-- 🔗 [Job Tracking Portal]([https://github.com/your-username/resume-ranker](https://github.com/Harshal1326/deploymentjobportal))
+- 🔗 [Job Tracking Portal](https://github.com/Harshal1326/deploymentjobportal)
 
 ---
 
