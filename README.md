@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Pinned Projects:
-- 🔗 [Smart Resume Ranker (NLP)](https://github.com/your-username/resume-ranker)
+- 🔗 [Job Tracking Portal]([https://github.com/your-username/resume-ranker](https://github.com/Harshal1326/deploymentjobportal))
 
 ---
 
