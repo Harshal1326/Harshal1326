@@ -16,9 +16,6 @@
 - 🌱 I’m currently learning:  
   **Web Development 👨‍💻**, **Data Structures and Algorithms**, **Java**
 
-- 👨‍💻 All of my projects are available here:  
-  [🔗https://github.com/Sidd-17052004?tab=repositories](https://github.com/Harshal1326?tab=repositories))
-
 - 📫 How to reach me:  
   [📧 harshalshinde1326@gmail.com](mailto:harshalshinde1326@gmail.com)
 
