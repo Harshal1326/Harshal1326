@@ -41,7 +41,7 @@
 ---
 
 ### 📌 Pinned Projects:
-- 🔗 [Job Tracking Portal](https://github.com/Harshal1326/deploymentjobportal)
+- 🔗 [Job Tracking Portal](https://github.com/Harshal1326/Jan-2026-Jobify)
 
 ---
 
